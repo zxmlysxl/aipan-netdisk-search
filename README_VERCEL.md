@@ -56,7 +56,7 @@
 - 第9步，选择要部署的git分支
 ![第9步](https://r2cf.aipan.me/readme/vercel/exist/9.png)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/unilei/aipan-netdisk-search.git&project-name=aipan-netdisk-search&repository-name=aipan-netdisk-search)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zxmlysxl/aipan-netdisk-search.git&project-name=aipan-netdisk-search&repository-name=aipan-netdisk-search)
 
 ### 在 Vercel 上手动部署 操作方法
 
