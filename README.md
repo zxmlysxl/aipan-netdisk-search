@@ -1,6 +1,6 @@
 # 爱盘-网盘资源搜索 Web
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/unilei/aipan-netdisk-search.git&project-name=aipan-netdisk-search&repository-name=aipan-netdisk-search)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zxmlysxl/aipan-netdisk-search.git&project-name=aipan-netdisk-search&repository-name=aipan-netdisk-search)
 
 🔥 爱盘-网盘资源搜索是一个开源的网盘资源聚合搜索平台。
 
@@ -138,6 +138,4 @@ pnpm run dev
 
 ## 联系方式
 
-- 项目地址：[GitHub](https://github.com/unilei/aipan-netdisk-search)
-- 问题反馈：[Issues](https://github.com/unilei/aipan-netdisk-search/issues)
-- 功能建议：[Discussions](https://github.com/unilei/aipan-netdisk-search/discussions)
+- 项目地址：[GitHub](https://github.com/zxmlysxl/aipan-netdisk-search)
