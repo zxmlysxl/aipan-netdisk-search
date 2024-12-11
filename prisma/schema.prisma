@@ -14,7 +14,7 @@ generator client {
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
-  // shadowDatabaseUrl = env("SHADOW_DATABASE_URL") // 添加这一行
+  shadowDatabaseUrl = env("SHADOW_DATABASE_URL") // 添加这一行
 }
 
 model User {
