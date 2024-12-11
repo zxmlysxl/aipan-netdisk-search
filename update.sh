@@ -21,7 +21,7 @@ print_message "Starting update process..." "${GREEN}"
 
 # 拉取最新的镜像
 print_message "\nPulling latest Docker image..." "${YELLOW}"
-docker pull unilei/aipan-netdisk-search:latest
+docker pull zxmlysxl/aipan-netdisk-search:latest
 
 # 停止当前运行的容器
 print_message "\nStopping current containers..." "${YELLOW}"
